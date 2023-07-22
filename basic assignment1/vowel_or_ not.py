@@ -1,5 +1,11 @@
-#write a program to check if the given charecter is vowel or not.
+'''
+@Author: Amreen shaikh
+@Date: 2023-7-22
+@Last Modified by: Amreen shaikh
+@Last Modified : 2023-7-22
+@Title :write a program to check if the given charecter is vowel or not. 
 
+'''
 
 vowel = ['a', 'e','i', 'o', 'u']
 charecter = input("Enter the letter :")
