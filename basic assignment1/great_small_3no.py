@@ -1,4 +1,10 @@
-# greats of 3number and smallest of 3 number.
+'''
+@Author: Amreen shaikh
+@Date: 2023-7-22
+@Last Modified by: Amreen shaikh
+@Last Modified : 2023-7-22
+@Title :greats of 3number and smallest of 3 number.
+'''
 
 num1 = int(input("Enter the 1st no : "))  #10 , 10   
 num2 = int(input("Enter the 2st no : ")) #20  , 30

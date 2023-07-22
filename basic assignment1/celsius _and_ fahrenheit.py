@@ -1,4 +1,10 @@
-#write a python program to convert temp to celsius and fahrenheit.
+'''
+@Author: Amreen shaikh
+@Date: 2023-7-22
+@Last Modified by: Amreen shaikh
+@Last Modified : 2023-7-22
+@Title : write a python program to convert temp to celsius and fahrenheit
+'''
 
 
 def celsius_to_fahrenheit():
